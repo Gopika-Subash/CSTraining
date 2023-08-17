@@ -41,7 +41,7 @@ int main()
         {
             if(i!=j)
             {
-                cout<<a[i][j]<<"\t";
+                cout<<a[i][j]<<"\t"; 
             }
             else
             {
