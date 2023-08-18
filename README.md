@@ -1,4 +1,3 @@
-# CSTraining
 # My Training Code Repository
 
 Welcome to my training code repository! This repository contains a collection of code samples and projects I completed during my training in programming languages like C, C++, and Python. Feel free to explore the contents and use them as reference or inspiration for your own projects.
